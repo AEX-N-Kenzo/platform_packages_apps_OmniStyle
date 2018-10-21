@@ -25,6 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
     <string name="header_naturerandom">Nature (random)</string>
     <string name="header_poly">Poly</string>
     <string name="header_nature">Nature</string>
+    <string name="header_pack_miui">Miui 8/9</string>
     <string name="weather_color">LockClock (color)</string>
     <string name="header_creator_label">Creator\u003a </string>
 </resources>
